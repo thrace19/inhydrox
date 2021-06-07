@@ -8,25 +8,21 @@ Hi there, I'm **Rajat Mishra**, a **Javascript and NodeJS developer** and a **Co
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m just a 16 year kid, who is learning to code and help people
-- 🌱 I’m currently learning Vue and Typescript
-- 🤔 My interests are programming and gaming
+- 👨🏽‍💻 I’m just a 17 year kid, who is learning to code and help people
+- 🌱 I’m currently learning Java
+- 🤔 My interests is programming
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via hydrox127@gmail.com to reach me.
 
 
 **Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![HYDROX's github stats](https://github-readme-stats.vercel.app/api?username=inhydrox&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inhydrox&theme=radical&layout=compact)
-
-⭐️ From [HYDROX](https://github.com/inhydrox)
